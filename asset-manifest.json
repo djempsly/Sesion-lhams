@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sesion-lhams/static/css/main.1cf22f61.css",
+    "main.js": "/Sesion-lhams/static/js/main.73cc9d86.js",
+    "static/js/453.9c00810f.chunk.js": "/Sesion-lhams/static/js/453.9c00810f.chunk.js",
+    "index.html": "/Sesion-lhams/index.html",
+    "main.1cf22f61.css.map": "/Sesion-lhams/static/css/main.1cf22f61.css.map",
+    "main.73cc9d86.js.map": "/Sesion-lhams/static/js/main.73cc9d86.js.map",
+    "453.9c00810f.chunk.js.map": "/Sesion-lhams/static/js/453.9c00810f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cf22f61.css",
+    "static/js/main.73cc9d86.js"
+  ]
+}
