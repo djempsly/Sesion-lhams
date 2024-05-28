@@ -6,7 +6,7 @@ const Sesion= ()=>{
   return(
     <>
     <div className="container-sesion">
-    <p className="letras"> Disculpe lo inconveniente,  <br/> esta parte está en construcción</p>
+    <p className="letras"> Disculpe lo inconveniente,  <br/> pagina en mantenimiento</p>
   
 
       {/* <img className="img-construccion" src={construccion} alt="construccion" /> */}
