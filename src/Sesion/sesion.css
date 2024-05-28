@@ -1,0 +1,23 @@
+.container-sesion{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: auto;
+  
+}
+
+.letras{
+    font-size: 120px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    z-index: 1;
+    color: rgb(239, 239, 245);
+    border: 2px solid black;
+    text-shadow: 2px 2px 2px 2px black;
+    text-align: center;
+    font-weight: bolder;
+    width: 95%;
+    margin: auto;
+    border-radius: 15px;
+    background-color: rgb(38, 117, 173);
+}
+
